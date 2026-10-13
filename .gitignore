@@ -1,0 +1,24 @@
+# 编译产物
+build/
+
+# CubeMX / IDE
+.mxproject
+.vscode/
+
+# 编译中间文件
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.su
+
+# 个人笔记（不上传）
+代码讲解-从零看懂版.md
+检查任务-必须吃透清单.md
+
+# 系统/临时文件
+Thumbs.db
+Desktop.ini
+*.bak
